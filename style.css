@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(245, 247, 249);
+}
+img{
+    width: 50%;
+    border-radius: 5%;
+}h1{
+    text-align: center;
+    color: rgb(247, 10, 10);
+}p{
+    text-align: center;
+    color: rgb(230, 36, 159);
+}
